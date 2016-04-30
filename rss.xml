@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dyanburgess]]></title>
-        <description><![CDATA[dyanburgess]]></description>
+        <title><![CDATA[The Story Curator]]></title>
+        <description><![CDATA[The Story Curator]]></description>
         <link>https://thegrid.ai/dyanburgess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 23:17:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dyanburgess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dyan Burgess]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/370bb736-923f-4b37-9af2-cb2742c5c221.jpg">]]></description>
+            <link>https://thegrid.ai/dyanburgess/dyan-burgess/index.html</link>
+            <guid isPermaLink="false">12c21156-b0cc-4bb3-a05d-1c8cd8a2030d</guid>
+            <pubDate>Sat, 30 Apr 2016 23:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Women in Leadership </p>]]></description>
             <link>https://thegrid.ai/dyanburgess/52f514e9-ae53-4641-8548-225dc04b9bdf/index.html</link>
             <guid isPermaLink="false">52f514e9-ae53-4641-8548-225dc04b9bdf</guid>
             <pubDate>Sun, 22 Nov 2015 21:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dyan Burgess]]></title>
-            <description><![CDATA[<article><h1>Dyan Burgess</h1><p>Dyan creates remarkable visual notes while listening to live presentations. Her simple style captures the key messages of speakers clearly and succinctly. Dyan utilises visual mapping to succeed in her other passions – project management and independent book publishing.</p></article>]]></description>
-            <link>https://thegrid.ai/dyanburgess/dyan-burgess/index.html</link>
-            <guid isPermaLink="false">12c21156-b0cc-4bb3-a05d-1c8cd8a2030d</guid>
-            <pubDate>Sun, 22 Nov 2015 21:06:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
