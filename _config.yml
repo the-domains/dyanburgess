@@ -1,7 +1,7 @@
 name: dyanburgess
 favicon: null
-layout_spectrum: 0.10232114139944315
-typography_spectrum: 0.6404527879785746
+layout_spectrum: 0
+typography_spectrum: 0.57327
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#81111a'
+    - '#58595b'
+    - '#b2b2b3'
+    - '#8b8c8e'
   brandStrength: 0.9747725613415241
   lightness: 0.347735971910879
   saturation: 0.9294552167411894
